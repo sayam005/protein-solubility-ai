@@ -102,19 +102,6 @@ The project generates three key visualizations:
 2. **`roc_curves.png`** - ROC curve analysis with AUC scores  
 3. **`dataset_summary.png`** - Dataset overview and feature distributions
 
-## 🏢 Business Impact
-
-### **For Pharmaceutical Companies**
-- **Cost Reduction**: Pre-screen protein candidates before expensive lab work
-- **Time Savings**: Accelerate drug development timelines
-- **Risk Mitigation**: Reduce experimental failures
-- **Data-Driven Decisions**: Quantitative solubility predictions
-
-### **ROI Potential**
-- Typical protein expression screening: $10,000-50,000 per candidate
-- Model deployment cost: <$1,000
-- Potential savings: Millions per drug development program
-
 ## 🔬 Technical Implementation
 
 ### **Data Preprocessing**
@@ -163,32 +150,4 @@ protein-solubility-ai/
 │   ├── accuracy_comparison.png
 │   ├── roc_curves.png
 │   └── dataset_summary.png
-└── README.md
-```
-
-## 🔮 Future Enhancements
-
-- [ ] **Web Interface**: Streamlit/Flask application for easier access
-- [ ] **Real Data Integration**: Validate with experimental protein data
-- [ ] **Ensemble Methods**: Combine multiple algorithms for higher accuracy
-- [ ] **Feature Engineering**: Add secondary structure predictions
-- [ ] **Cloud Deployment**: AWS/Azure hosting for enterprise use
-
-## 🎓 Academic Context
-
-This project demonstrates practical application of:
-- **Supervised Machine Learning** (Classification)
-- **Ensemble Learning** (Random Forest)
-- **Feature Engineering** (Amino acid composition)
-- **Model Evaluation** (ROC/AUC analysis)
-- **Biochemical Knowledge Integration**
-
-## 👨‍💼 Contact
-
-**Developer**: [Your Name]  
-**Institution**: [Your University/College]  
-**Course**: [Machine Learning/Data Science Course]  
-**Date**: [Current Date]
-
----
-*Developed for pharmaceutical AI applications in therapeutic protein development.*
+└── README.md 
