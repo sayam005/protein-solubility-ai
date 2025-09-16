@@ -1,0 +1,8 @@
+{
+  "random_forest_accuracy": 0.87,
+  "logistic_regression_accuracy": 0.8466666666666667,
+  "winner": "Random Forest",
+  "training_date": "2025-09-16 22:56:30",
+  "dataset_size": 1500,
+  "test_size": 300
+}

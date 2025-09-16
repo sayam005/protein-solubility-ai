@@ -1,0 +1,46 @@
+# Virtual environment
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large data files (optional)
+*.csv.backup
+*.xlsx
+
+# Model files (if they get too large)
+*.pkl
+*.joblib
+*.h5
+
+# Output folders that regenerate
+outputs/temp/
+*.log
+
+# Windows specific
+desktop.ini
